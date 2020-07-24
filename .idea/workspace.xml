@@ -10,6 +10,8 @@
       <change afterPath="$PROJECT_DIR$/frontend/youtube_react/src/components/VideoList.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/youtube_react/src/components/actionTypes.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/youtube_react/src/context/ApiContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/youtube_react" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/youtube_react" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/youtube_react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/youtube_react/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/youtube_react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/youtube_react/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/youtube_react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/youtube_react/src/App.js" afterDir="false" />
@@ -23,6 +25,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/youtube_react" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1er9BhGepKUwN5l6r5Uro66zEsy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595068710482</updated>
-      <workItem from="1595068711619" duration="13970000" />
+      <workItem from="1595068711619" duration="14172000" />
     </task>
     <servers />
   </component>
